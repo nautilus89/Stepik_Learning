@@ -1,5 +1,6 @@
-from selenium import webdriver
-from selenium.webdriver.support.ui import Select
+# раскоментить для запуска
+# from selenium import webdriver
+# from selenium.webdriver.support.ui import Select
 import math
 import time
 

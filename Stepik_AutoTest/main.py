@@ -23,4 +23,4 @@ import reg_form_for_review
 # waiters.wait_2()
 # waiters.wait_3()
 # test_text.test_input_text(11, 11)
-test_text.test_substring("some_text","some")
+# test_text.test_substring("some_text", "some")
