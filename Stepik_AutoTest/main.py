@@ -1,5 +1,5 @@
 import example_1, fill_form, find_by_text_link, checkbox_radio, select, script_execute, file_upload, alerts
-import windows, waiters
+import windows, waiters, test_text
 import reg_form_for_review
 # example_1.example()
 # fill_form.fill_form()
@@ -21,4 +21,6 @@ import reg_form_for_review
 # windows.new_window()
 # waiters.wait_1()
 # waiters.wait_2()
-waiters.wait_3()
+# waiters.wait_3()
+# test_text.test_input_text(11, 11)
+test_text.test_substring("some_text","some")
