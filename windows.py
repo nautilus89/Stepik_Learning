@@ -3,6 +3,7 @@ import math
 import time
 
 
+
 def new_window():
     link = "http://suninjuly.github.io/redirect_accept.html"
     try:
